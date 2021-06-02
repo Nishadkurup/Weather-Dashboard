@@ -16,7 +16,7 @@ ___
   For this project, I designed a fully functional web application that fetches data from the OpenWeatherMap API. When the user searches for a particular city that is listed in the API, current weather conditions for the city appear on the page, along with a five-day forecast for the city.
   The five-day forecast includes the date, the projected weather conditions, an icon reflective of projected weather conditions, projected values for temperature and humidity. By using localstorage the city name would also be saved to a list under the search bar.
 
-  ![Image](Assets/images/image2.png)
+  ![Image](assets/images/image2.png)
   
 
 ## Technologies-Used
@@ -43,7 +43,7 @@ Current and post 5 days Weather information is obtained by typing the city name 
 
 A view of the dashboard:
 
-  ![Image](Assets/images/image1.png)
+  ![Image](assets/images/image1.png)
 
 
 [Back to Table](#table-of-contents) 
